@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/laika/Desktop/Tutorials/ReactNative/3-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/laika/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/1d0eb0f952a1ac3c6a7ad26488d2d57f/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "/home/laika/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/305b86c04a18a8f8a4f5e6c51166e610/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

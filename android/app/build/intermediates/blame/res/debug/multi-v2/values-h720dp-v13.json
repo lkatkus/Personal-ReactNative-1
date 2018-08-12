@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/laika/Desktop/Tutorials/ReactNative/3-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/laika/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/305b86c04a18a8f8a4f5e6c51166e610/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Sun Aug 12 11:43:29 EEST 2018
+base.0=/home/laika/Desktop/Tutorials/ReactNative/3-test/android/app/build/intermediates/transforms/dexMerger/debug/23
+path.0=classes.dex
+renamed.0=classes.dex
